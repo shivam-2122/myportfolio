@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "title": "Food Ordering WebSite",
+      "category": "Front-End Design",
+      "image": "images/project-2.png"
+    },
+    {
+      "id": 2,
+      "title": "Portfolio",
+      "category": "Web development",
+      "image": "images/project-1.png"
+    },
+    {
+      "id": 3,
+      "title": "Job Listing Portal",
+      "category": "MERN Stack",
+      "image": "images/project-4.png"
+    },
+    {
+      "id": 4,
+      "title": "Music App",
+      "category": "ReactJS",
+      "image": "images/project-3.png"
+    }
+   
+  ]
+  
